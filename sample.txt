@@ -1,8 +1,11 @@
 test
 
-git init
-git add .
-git commit
+git init　初期化　
+git add .　登録
+git commit　保存
 
+git branch ブランチ名で新しいブランチを作成する。
 
-git checkout branch名
+git checkout branch名　指定のブランチへ切り替え
+
+git reset
