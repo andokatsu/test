@@ -1,0 +1,85 @@
+
+#kadai1 {
+    color: blue;
+}
+
+div.kadai2 {
+    color: green;
+    font-size: 30px;
+}
+
+#kadai3 {
+    text-decoration: line-through;
+}
+
+div.kadai4 {
+    color:white;
+    background-color: steelblue;
+    width:500px;
+}
+
+#contents {
+    width: 500px;
+}
+
+#main {
+    background-color: gainsboro;
+    padding: 10px;
+    border: dimgray solid 2px;
+}
+
+#kadai5 {
+    background-color: thistle;
+    padding: 20px 10px;
+    border: dimgray double 4px;
+}
+
+#kadai6 {
+    width: 500px;
+    height: 250px;
+    background-image: url("../images/bg.jpg")
+}
+
+a {
+    font-weight: bold;
+}
+
+a:hover {
+    font-family: Times New Roman,"ＭＳ Ｐゴシック";
+    font-style: oblique;
+}
+
+#kadai7_a {
+    width: 300px;
+}
+
+#kadai7_b {
+    border: black solid 2px;
+}
+
+td.kadai7_c {
+    width: 100px;
+    text-align: center;
+    border: black solid 1px;
+}
+
+td.kadai7_d {
+    width: 200px;
+    text-align: center;
+    border: black solid 1px;
+}
+
+table.kadai8 {
+    border: black solid 1px;
+    border-collapse:collapse;
+}
+
+th.kadai8 {
+    border: black solid 1px;
+    color: white;
+    background-color: steelblue;
+}
+
+td.kadai8 {
+    border: black solid 1px;
+}
